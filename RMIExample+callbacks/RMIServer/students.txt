@@ -1,0 +1,9 @@
+4.0;Jan;Kowalski;22
+5.0;Jan2;Kowalski2;23
+3.0;Jan3;Kowalski3;25
+3.0;Jan4;Kowalski4;22
+4.5;Jan6;Kowalski46;31
+4.0;Jan7;Kowalski7;26
+2.0;Michal;Jaroslaw;51
+3.5;Marcin;Lenda;55
+5.0;Marciej;Polaszek;33
